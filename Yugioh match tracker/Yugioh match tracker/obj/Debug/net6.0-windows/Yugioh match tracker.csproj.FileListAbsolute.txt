@@ -1,0 +1,18 @@
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\bin\Debug\net6.0-windows\Yugioh match tracker.exe
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\bin\Debug\net6.0-windows\Yugioh match tracker.deps.json
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\bin\Debug\net6.0-windows\Yugioh match tracker.runtimeconfig.json
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\bin\Debug\net6.0-windows\Yugioh match tracker.dll
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\bin\Debug\net6.0-windows\Yugioh match tracker.pdb
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh match tracker.csproj.AssemblyReference.cache
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh_match_tracker.Form1.resources
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh match tracker.csproj.GenerateResource.cache
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh match tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh match tracker.AssemblyInfoInputs.cache
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh match tracker.AssemblyInfo.cs
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh match tracker.csproj.CoreCompileInputs.cache
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh match tracker.dll
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\refint\Yugioh match tracker.dll
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh match tracker.pdb
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh match tracker.genruntimeconfig.cache
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\ref\Yugioh match tracker.dll
+C:\Users\EM\source\repos\Yugioh match tracker\Yugioh match tracker\obj\Debug\net6.0-windows\Yugioh_match_tracker.Properties.Resources.resources
